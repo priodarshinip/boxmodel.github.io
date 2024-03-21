@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+    height: 200px;
+}
+
+.troy{
+  border: 10px solid lightblue;
+  margin: 5px;
+  padding: 3px;
+}
+
+.duch{
+  border: 10px solid pink;
+  margin: 5px;
+  padding: 3px;
+}
+
+h1{
+  border: 8x solid saddlebrown;
+  margin: 100px;
+  padding: 3px;
+  background-color: linen;
+  text-align: center;
+  border-style: inset;
+}
+
+h2{
+  border: 2px solid saddlebrown;
+  margin: 20px;
+  padding: 30px;
+  background-color: linen;
+  text-align: center;
+}
+
+h3{
+  border: 2px solid saddlebrown;
+  margin: 20px;
+  padding: 30px;
+  background-color: linen;
+  text-align: center;
+}
+
+p{
+  border: 2px dotted saddlebrown;
+  margin: 20px;
+  padding: 30px;
+  background-color: linen;
+  text-align: center;
+}
+ul{
+  border: 2px solid saddlebrown;
+  margin: 20px;
+  padding: 30px;
+  background-color: linen;
+  text-align: center;
+}
+
